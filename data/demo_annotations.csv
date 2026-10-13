@@ -1,0 +1,9 @@
+root_id,cell_type,region,notes
+1001,Demo auditory sensory neuron,AMMC,synthetic example only
+1002,Demo interneuron,AMMC,synthetic example only
+1003,Demo projection neuron,brain,synthetic example only
+1004,Demo dopamine neuron,brain,synthetic example only
+1005,Demo alternate interneuron,brain,synthetic example only
+2001,Demo visual neuron,optic lobe,synthetic example only
+2002,Demo visual interneuron,optic lobe,synthetic example only
+2003,Demo output neuron,brain,synthetic example only
